@@ -1,5 +1,5 @@
 <?php
 
-include("incluir.php");
+echo 'Hola Mundo!';
 
 ?>
